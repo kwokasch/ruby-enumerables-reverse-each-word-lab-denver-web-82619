@@ -1,5 +1,5 @@
 reverse_each_word(string)
-  old_array = string.split(" ")
+  current_array = string.split(" ")
   new_array = []
-  reverse_each_word.each
+  current_array.each do 
   
